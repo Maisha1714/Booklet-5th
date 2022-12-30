@@ -1,0 +1,24 @@
+.car{
+    background: url(../../imgs/bgs/background14.jpg);
+    background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+    background-position: center;
+    align-content: center;
+}
+.car img{
+    padding: 40px;
+    border-radius: 50px;
+    margin-top: 10vh;
+    height: 90vh;
+    width: auto;
+}
+
+.car .title h2{
+    display: flex;
+    padding-top: 20%; 
+    padding-left: 20%;
+    background: white;
+    border-radius: 10px;
+    color: black;
+}
